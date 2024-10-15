@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "VIS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Echo_SocketServer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Echo_SocketServer-Debug-105285c577456c1a4e63.json",
+					"name" : "Echo_SocketServer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Environment_SocketServer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Environment_SocketServer-Debug-35d4386d109d65796d5d.json",
+					"name" : "Environment_SocketServer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Http_SocketServer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Http_SocketServer-Debug-d3cb221fd2f70b2ee20c.json",
+					"name" : "Http_SocketServer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ipv6_SocketClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ipv6_SocketClient-Debug-81b0bc03138539a934e7.json",
+					"name" : "Ipv6_SocketClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ipv6_SocketServer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ipv6_SocketServer-Debug-e315d9f3597ee7b2c9ea.json",
+					"name" : "Ipv6_SocketServer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Primitive_SocketClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Primitive_SocketClient-Debug-b327178f96fd35bf308d.json",
+					"name" : "Primitive_SocketClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Primitive_SocketServer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Primitive_SocketServer-Debug-fd8b6e6673bdfeb2bb75.json",
+					"name" : "Primitive_SocketServer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Udp_SocketClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Udp_SocketClient-Debug-518c93bfa899925d9de3.json",
+					"name" : "Udp_SocketClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Udp_SocketServer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Udp_SocketServer-Debug-a4ced1f87474ce2168b5.json",
+					"name" : "Udp_SocketServer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/teodorbrankovic/Desktop/CLionProjects/VIS/cmake-build-debug",
+		"source" : "/Users/teodorbrankovic/Desktop/CLionProjects/VIS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

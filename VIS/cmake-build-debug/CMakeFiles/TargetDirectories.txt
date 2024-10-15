@@ -1,0 +1,11 @@
+/Users/teodorbrankovic/Desktop/CLionProjects/VIS/cmake-build-debug/CMakeFiles/Primitive_SocketServer.dir
+/Users/teodorbrankovic/Desktop/CLionProjects/VIS/cmake-build-debug/CMakeFiles/Primitive_SocketClient.dir
+/Users/teodorbrankovic/Desktop/CLionProjects/VIS/cmake-build-debug/CMakeFiles/Echo_SocketServer.dir
+/Users/teodorbrankovic/Desktop/CLionProjects/VIS/cmake-build-debug/CMakeFiles/Udp_SocketServer.dir
+/Users/teodorbrankovic/Desktop/CLionProjects/VIS/cmake-build-debug/CMakeFiles/Udp_SocketClient.dir
+/Users/teodorbrankovic/Desktop/CLionProjects/VIS/cmake-build-debug/CMakeFiles/Ipv6_SocketServer.dir
+/Users/teodorbrankovic/Desktop/CLionProjects/VIS/cmake-build-debug/CMakeFiles/Ipv6_SocketClient.dir
+/Users/teodorbrankovic/Desktop/CLionProjects/VIS/cmake-build-debug/CMakeFiles/Environment_SocketServer.dir
+/Users/teodorbrankovic/Desktop/CLionProjects/VIS/cmake-build-debug/CMakeFiles/Http_SocketServer.dir
+/Users/teodorbrankovic/Desktop/CLionProjects/VIS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/teodorbrankovic/Desktop/CLionProjects/VIS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

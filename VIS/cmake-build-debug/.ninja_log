@@ -1,0 +1,11 @@
+# ninja log v5
+2	378	1701966517421555593	CMakeFiles/Primitive_SocketServer.dir/socket/cpp/Primitive_SocketServer/src/main/cpp/Primitive_SocketServer.cpp.o	375cfc3a43bb136b
+3	490	1703069993048949686	CMakeFiles/Environment_SocketServer.dir/socket/cpp/Environment_SocketServer/src/main/cpp/Environment_SocketServer.cpp.o	4123a51db3345157
+378	488	1701966517532627804	Primitive_SocketServer	89a7aa641395da83
+290	325	1701871462360350387	Primitive_SocketClient	2b4b1fab94508518
+0	316	1703084821646640102	CMakeFiles/Udp_SocketServer.dir/socket/cpp/Udp_SocketServer/src/main/cpp/Udp_SocketServer.cpp.o	8b6c39563e732873
+0	307	1703084821636873374	CMakeFiles/Udp_SocketServer.dir/socket/cpp/UDP_SocketServer/src/main/cpp/main.cpp.o	b46c02d67d114f49
+490	581	1703069993140684043	Environment_SocketServer	a668499f3398cf49
+0	290	1701871462322836223	CMakeFiles/Primitive_SocketClient.dir/socket/cpp/Primitive_SocketClient/src/main/cpp/Primitive_SocketClient.cpp.o	43a13347002c5e73
+3	500	1703069207681486607	CMakeFiles/Environment_SocketServer.dir/socket/cpp/Environment_SocketServer/src/main/cpp/main.cpp.o	cf7e5608486551df
+316	346	1703084821677701328	Udp_SocketServer	9d7de98d8501f7c3

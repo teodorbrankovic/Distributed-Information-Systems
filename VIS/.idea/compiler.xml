@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="21">
+      <module name="VIS.jaxb.parser.XML.untitled.main" target="17" />
+      <module name="VIS.jaxb.parser.XML.untitled.test" target="17" />
+      <module name="VIS.parser.JSON.main" target="17" />
+      <module name="VIS.parser.JSON.test" target="17" />
+      <module name="VIS.rmi.main" target="18" />
+      <module name="VIS.rmi.test" target="18" />
+      <module name="VIS.servlet.main" target="18" />
+      <module name="VIS.servlet.test" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
